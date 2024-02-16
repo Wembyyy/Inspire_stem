@@ -1,0 +1,7 @@
+print("My name is Chris")
+print("i am blablabla years old")
+print("i come from blablabla")
+print("i love doing blablabla")
+print("--------")
+print("*********")
+print("#########")
