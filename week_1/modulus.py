@@ -14,4 +14,4 @@ print(20>>1)
 print(20<<2)
 print(20<<1)
 # the command << multiplies the number by 2 raised to the proceding number
-#nthe command >> divides the number by 2 raised to the proceding number
+# the command >> divides the number by 2 raised to the proceding number
