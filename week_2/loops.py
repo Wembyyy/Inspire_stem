@@ -4,7 +4,8 @@
 
 #for loop
 for number in range(0,10):
-    print(number)
+    print(str(number) + "\t", end="")
+    print("\n\n")
 
 #squares of the number
 for x in range(0,11):
