@@ -7,3 +7,20 @@ items.count
 print("\n")
 print(items)
 #pop,sort,reverse
+
+movies=["across the multiverse","John wick","you","All the queens men","berlin"]
+movies.pop(2)
+print("\n")
+print(movies)
+
+movies.sort()
+print("\n")
+print(movies)
+
+movies.reverse()
+print("\n")
+print(movies)
+
+movies.count(0)
+print("\n")
+print(len(movies))
