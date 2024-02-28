@@ -10,6 +10,7 @@ print(items)
 
 movies=["across the multiverse","John wick","you","All the queens men","berlin"]
 movies.pop(2)
+movies.pop(0)
 print("\n")
 print(movies)
 
