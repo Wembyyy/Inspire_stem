@@ -1,0 +1,1 @@
+vegetable=("peppers","cabbage","spinach","corriander","carrot")
