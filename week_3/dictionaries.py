@@ -9,3 +9,6 @@ for key,value in laptop.items():
     print(value)
 del laptop["colour"]
 print(laptop)
+#1:create a tuple of your hobbies
+#2:using dictionaries describe your favourite car
+
