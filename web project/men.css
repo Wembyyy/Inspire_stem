@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(gold,green,white,red);
+
+}
+img{
+    height: 45vh;
+    width: 45vh;
+    border: solid;
+    border-radius: 5%;
+    margin-bottom: 30vh;
+    margin-right: 10vh;
+    margin-left: 10vh;
+    cursor: pointer;
+}
+h1{
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-align: center;
+    font-style:italic;
+    font-size: 100px;
+    color: black;
+    background:linear-gradient(black,white)
+}
